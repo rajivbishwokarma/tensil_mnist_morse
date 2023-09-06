@@ -1,0 +1,1 @@
+tensil compile -a /demo/arch/ultra96v2.tarch -m e14_mnist_30.onnx -o "Identity:0" -s true
